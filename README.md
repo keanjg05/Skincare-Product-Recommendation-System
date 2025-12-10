@@ -3,7 +3,7 @@ A machine learning-based system that helps users find the right skincare product
 
 Try the demo here: https://huggingface.co/spaces/keanjg28/skincare-recommendation-ml-system
 
-Training Data
+**Training Data**
 
 The full training files used for this project are available on Zenodo due to size limits on GitHub:
 
@@ -13,6 +13,6 @@ These files are optional for running the notebook. You do NOT need to download t
 
 All that is required is the cosmetic_p.csv file placed in your working directory. When you run the notebook consecutively, all additional training files and processed datasets are automatically generated during execution.
 
-Evaluation
+**Evaluation**
 
 For evaluation, the files located in data/model can be used immediately. These can be uploaded directly through the notebook’s upload interface to run the evaluation notebook without re-training the models.
