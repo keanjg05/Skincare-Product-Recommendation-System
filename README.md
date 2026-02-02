@@ -22,4 +22,4 @@ For evaluation, the files located in data/model can be used immediately. These c
 A detailed technical report describing the model architecture, training process,
 feature engineering, and evaluation methodology is available here:
 
-[Project Report](docs/skincare_recommendation_report.pdf)
+[Project Report](https://drive.google.com/file/d/1w1VXthymDg8gyTKfRzq3PwE3ch4MDUMG/view?usp=sharing)
