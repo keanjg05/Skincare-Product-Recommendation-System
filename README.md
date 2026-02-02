@@ -16,3 +16,10 @@ All that is required is the cosmetic_p.csv file placed in your working directory
 **Evaluation**
 
 For evaluation, the files located in data/model can be used immediately. These can be uploaded directly through the notebook’s upload interface to run the evaluation notebook without re-training the models.
+
+**Project Report**
+
+A detailed technical report describing the model architecture, training process,
+feature engineering, and evaluation methodology is available here:
+
+[Project Report](docs/skincare_recommendation_report.pdf)
