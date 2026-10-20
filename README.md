@@ -1,5 +1,5 @@
 # Skincare-Product-Recommendation-System
-A machine learning-based system that helps users find the right skincare products for their skin type and concerns. Users describe their skin issues in natural language (like “dry skin with redness and acne”), and the system suggests compatible products, explaining which ingredients and benefits make them suitable. Built using a neural network trained from scratch to match products to user needs.
+A machine learning project that recommends skincare products from natural-language descriptions of skin type and concerns (e.g., “dry skin with redness”). It compares a rule-based baseline (pre-trained Sentence-BERT + skin-type matching) with a neural network trained from scratch in PyTorch on frozen Sentence-BERT embeddings. Trained on synthetic queries and rule-derived labels; see the report for limitations.
 
 Try the demo here: https://huggingface.co/spaces/keanjg28/skincare-recommendation-ml-system
 
